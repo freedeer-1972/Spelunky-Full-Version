@@ -241,4 +241,4 @@ This repository serves as the official landing page for Spelunky. The software i
 **Get the most recent version of Spelunky today!**
 
 ---
-**Last updated:** 2026-10-01 01:39:53 UTC
+**Last updated:** 2026-10-01 07:58:04 UTC
